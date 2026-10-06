@@ -8,7 +8,7 @@
 
 To study and measure the characteristics of an E-plane tee.
 
-## Apparatus Used
+## Apparatus Used. 
 
 Klystron power supply, klystron mount with tube, isolator, variable attenuator, frequency meter, slotted line section, E-plane tee, detector mount / crystal detector, matched terminations, VSWR meter, waveguide stands.
 
@@ -54,9 +54,10 @@ The two main-guide arms are symmetrical with respect to the auxiliary arm. If po
 ---
 
 ## Observation
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM (2)" src="https://github.com/user-attachments/assets/377d7d91-a187-40ea-846b-11682ab2d816" />
 
-*(Include your own table relevant to the experiment.)*
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM (3)" src="https://github.com/user-attachments/assets/26aacd33-1c7e-40c7-a07b-13e0fc2f2a94" />
 
 ---
 
